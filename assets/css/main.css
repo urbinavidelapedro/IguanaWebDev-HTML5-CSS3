@@ -1,0 +1,153 @@
+body{
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+}
+
+header{
+    background-image: url(../img/bg-header.jpg);
+    /* width:100%; */
+    margin: 0%;
+    /* height:37.5%; */
+    box-sizing: border-box;
+}
+
+h1{
+    color: #FFFFFF;
+    margin: 0 auto;
+    width: 80vw;
+}
+
+
+#hIguanas{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    width:100vw;
+    height:90.88vh;
+}
+
+article{
+    background-color: #000000;
+    color: #FFFFFF;
+    display:flex;
+    justify-content:space-around;
+    margin:0;
+}
+.info{
+    margin-top:9.5vh;
+    width: 37.11vw;
+    height:24.63vh;
+}
+
+
+
+.iguanitaChica{
+    margin-top: 5.625vh;
+    width:31.17vw;
+    height:29.63vh;
+}
+
+
+section{
+    margin: 0;
+    text-align: center;
+    color: #FFFFFF;
+    background-color: #1E1A13;
+    height: 43.5vh;
+}
+
+h2{
+    margin:0;
+    font-size: 1.6rem;
+    padding-top: 9.375vh;
+}
+
+.ojo{
+    color:#FFFFFF;
+}
+
+.paz{
+    color:#FFFFFF;
+}
+
+.pincel{
+    color:#FFFFFF;
+}
+
+#contenedor{
+    padding: 6.25vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.fa-regular.fa-eye{
+    font-size: 3rem;
+}
+
+.fa-solid.fa-hand-peace{
+    font-size: 3rem;
+}
+
+.fa-solid.fa-paintbrush{
+    font-size: 3rem;
+}
+
+.iguano{
+    width: 24.7vw;
+    height:25.25vh ;
+}
+
+figure{
+    margin: 0;
+    padding: 0;
+    width:100vw;
+    height:43.5vh;
+    background-color: #000000;
+}
+#contenedorimagenes{
+   
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    padding-top: 9.125vh;
+    padding-bottom: 9.125vh;
+    
+}
+
+footer{
+    height:12.75vh;
+    width:100vw;
+    background-color: #1E1A13;
+
+
+}
+
+
+#linkMasInfo{
+    padding-top: 4.9vh;
+    text-align: center;
+    color: #FFFFFF;
+    height: 12.75 vh;
+    width:100vw;
+    background-color: #1E1A13;
+
+}
+
+#linkMasInfo span a{
+    color: #FFFFFF;
+    
+}
+
+#linkMasInfo span a:hover{
+    color: #2b632c;
+
+}
+
+#linkMasInfo span a:active{
+    color: #a9b4a0;
+
+}
+
+
+
